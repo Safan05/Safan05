@@ -67,4 +67,6 @@ I’m constantly expanding my knowledge in:
 - [LinkedIn](https://www.linkedin.com/in/abdallah-safan)
 - [Portfolio](https://www.abdallahsafan.me)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Safan05)](https://github.com/ryo-ma/github-profile-trophy)
+
 Let's create something amazing together! 🚀
