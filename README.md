@@ -7,7 +7,6 @@ Welcome to my GitHub! I'm a **Computer Engineer** passionate about building inno
 ## 🚀 About Me
 
 - 💼 Junior Full Stack Developer, Freelancer  
-- 🖥️ Software Engineer at PayPal  
 - 👨‍🏫 Physics Tutor at Preply  
 - 🎓 Computer Engineer with expertise in logic design, FPGA, and Verilog  
 - 🔧 Strong problem-solving and algorithm skills  
@@ -45,7 +44,8 @@ Welcome to my GitHub! I'm a **Computer Engineer** passionate about building inno
 
 I'm currently working on:
 - Developing a **React-based orrery app** displaying the Sun and planets using real-world data from NASA Horizons API.
-- Learning **Machine Learning** and **DevOps**.
+- Learning **Machine Learning**.
+- Learning **DevOps**
 
 ## 📈 Career Highlights
 
