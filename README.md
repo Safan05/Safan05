@@ -11,6 +11,7 @@ Welcome to my GitHub! I'm a **Computer Engineering student at Cairo University**
 - 🧠 Specializing in **AI & RAG Pipelines**, **Agentic Workflows** (LangChain/LangGraph), and **Full-Stack Web Development** (PERN stack, Vue.js).
 - 🔐 Actively involved in **Cybersecurity, OSINT**, CTF challenges, and cryptographic analysis.
 - 🔧 Deep technical interest in hardware: VHDL, embedded systems (ATmega328p), and computer architecture.
+- 🧩 Strong foundation in **Problem Solving** and competitive programming.
 - 🎸 Classical Egyptian music enthusiast and instrumentalist.
 
 ## 🔧 Technologies & Tools I Use
@@ -43,11 +44,12 @@ Welcome to my GitHub! I'm a **Computer Engineering student at Cairo University**
 
 I'm currently working on:
 - 🤖 **AI Agents & Lead Generation**: Developing a Natural Language to Dork (NL2Dork) agent utilizing search engine dorks for intent-based B2C real estate market intelligence.
-- 🎶 **Halim House**: Developer for the official website.
+- 🎶 **Halim House**: Developer for the [official website](https://halimhouse.com).
 
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/abdallah-safan)
+- [Codeforces](https://codeforces.com/profile/safan05)
 - [Portfolio](https://www.abdallahsafan.me)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Safan05)](https://github.com/ryo-ma/github-profile-trophy)
